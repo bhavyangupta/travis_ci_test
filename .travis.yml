@@ -1,5 +1,6 @@
 install: true
 language: cpp
-compiler: 
+compiler:
   - g++
 script: make
+after_success: ./main
