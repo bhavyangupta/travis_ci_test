@@ -1,2 +1,2 @@
 # Test repo 
-[](https://travis-ci.org/bhavyangupta/travis_ci_test.svg?branch=master)
+![build status image](https://travis-ci.org/bhavyangupta/travis_ci_test.svg?branch=master)
