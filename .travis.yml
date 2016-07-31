@@ -2,8 +2,4 @@ install: true
 language: cpp
 compiler: 
   - g++
-notifications:
-  email:
-    recipients:
-      - bnguptaros@gmail.com
-    on_success: always
+script: make
